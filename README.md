@@ -40,11 +40,13 @@ The function strictly checks for the HTTP method and required fields in the requ
   "html_content": "<h1>Your HTML Content Here</h1>",
   "heading": "Your Email Subject",
   "emails": ["example1@gmail.com", "example2@gmail.com"]
-}```
+}
+```
 
 ### Response Example
 ```json
-Email sent```
+Email sent
+```
 
 ### Curl Command
 ```bash
